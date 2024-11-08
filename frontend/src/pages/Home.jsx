@@ -1,6 +1,9 @@
-export default function Home()
-{
-    return(
-        <div>Home</div>
-    )
+import { Button } from "flowbite-react";
+
+export default function Home() {
+  return (
+    <div>
+        Home
+    </div>
+  );
 }
